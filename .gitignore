@@ -1,4 +1,4 @@
 *.exe
-test.*
+*.dll
 encap.r
 *~
